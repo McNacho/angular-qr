@@ -5,11 +5,11 @@
   "keywords": ["qr", "qrcode", "angular"],
   "authors": ["Jan Antala <hello@janantala.com>"],
   "license": "MIT",
-  "homepage": "https://github.com/janantala/angular-qr",
+  "homepage": "https://github.com/McNacho/angular-qr",
   "main": "./src/angular-qr.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janantala/angular-qr.git"
+    "url": "https://github.com/McNacho/angular-qr.git"
   },
   "ignore": [
     "**/.*",
@@ -21,10 +21,10 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "~1.2.5",
+    "angular": ">=1.5.8",
     "qrcode": "~1.0.x"
   },
   "devDependencies": {
-    "angular-mocks": "~1.2.5"
+    "angular-mocks": ">=1.5.8"
   }
 }
